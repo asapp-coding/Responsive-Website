@@ -1,0 +1,12 @@
+font-family: 'Anton', sans-serif;
+font-family: 'Archivo Black', sans-serif;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Covered By Your Grace', cursive;
+font-family: 'Dela Gothic One', cursive;
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Mouse Memoirs', sans-serif;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Rock Salt', cursive;
+font-family: 'RocknRoll One', sans-serif;
+font-family: 'Sedgwick Ave', cursive;
+font-family: 'Special Elite', cursive;
